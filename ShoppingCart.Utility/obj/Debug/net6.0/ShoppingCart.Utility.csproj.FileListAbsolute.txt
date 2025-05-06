@@ -1,0 +1,17 @@
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.deps.json
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Utility.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.DataAccess.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.DataAccess.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.AssemblyInfo.cs
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\Shopping.C68AA4AC.Up2Date
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\refint\ShoppingCart.Utility.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ShoppingCart.Utility.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.Utility\obj\Debug\net6.0\ref\ShoppingCart.Utility.dll

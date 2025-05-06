@@ -1,0 +1,17 @@
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.deps.json
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.runtimeconfig.json
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.DataAccess.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\bin\Debug\net6.0\ShoppingCart.Models.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.AssemblyInfo.cs
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\Shopping.BDE9453B.Up2Date
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\refint\ShoppingCart.DataAccess.dll
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.pdb
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ShoppingCart.DataAccess.genruntimeconfig.cache
+C:\Users\Oleksii\Desktop\TpRZLab3-master\ShoppingCart.DataAccess\obj\Debug\net6.0\ref\ShoppingCart.DataAccess.dll
